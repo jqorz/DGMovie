@@ -3,6 +3,17 @@
 
 [项目地址](https://e.coding.net/jqorz/DGMoive.git)
 
+# 已破解包的地址
+- [DG_1.1.1_c2.apk](https://jqorz.coding.net/s/dd95c09f-9d5f-4bc7-b000-68029262c350)
+
+# 工具
+- [framework-res-28.apk](https://jqorz.coding.net/s/cdc6fc5f-8738-4639-8458-178583d4f705)
+- [apktool_2.4.1.jar](https://jqorz.coding.net/s/ccff6d04-a986-41f3-8c07-e67a4539ca9c)
+- [jd-gui-windows-1.6.6.zip](jd-gui-windows-1.6.6.zip)
+- [baksmali_2.2.5.jar](https://jqorz.coding.net/s/51a8f52b-dc23-4362-bbc9-d912fd079975)
+- [dex2jar 2.1.zip](https://jqorz.coding.net/s/d68f9414-caab-4fd9-850f-d821a8433446)
+- [Android逆向助手2.2.zip](https://jqorz.coding.net/s/44b7a766-1ad5-4934-8955-6d1bd9b44c40)
+
 ### 冬瓜影视去广告步骤记录
 
 使用环境 `AndroidKiller 1.3.1.0 `， `apktool-2.4.1 ` ，`dex2jar-2.1`，`framework-res-28.apk`，`JD-GUI—-1.6.6`
